@@ -17,7 +17,7 @@ public class TestConnection : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody>();   //added this line
-        Debug.Log("hello world");
+        Debug.Log("hello world - joystick");
         data_stream.Open();
         Debug.Log("hello world again");
     }
@@ -53,7 +53,7 @@ public class TestConnection : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody>();   //added this line
-        Debug.Log("hello world");
+        Debug.Log("hello world - force sensor");
         data_stream.Open();
         Debug.Log("hello world again");
     }
