@@ -2,7 +2,7 @@ using UnityEngine;
 using System.Collections;
 using System.IO.Ports;
 
-// new shit
+// testing out the joystick + arduino
 // public class TestConnection : MonoBehaviour
 // {
 //     SerialPort data_stream = new SerialPort("COM4", 9600);
@@ -38,7 +38,7 @@ using System.IO.Ports;
 
 
 
-// testing out the force sensor
+// testing out the force sensor + arduino
 public class TestConnection : MonoBehaviour
 {
     SerialPort data_stream = new SerialPort("COM5", 9600);
