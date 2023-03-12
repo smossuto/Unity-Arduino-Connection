@@ -2,27 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/[Ll]ibrary/
-/My project/Library/
-/Unity-Arduino-Connection/Library/
-/[Tt]emp/
-/My project/Temp/
-/Unity-Arduino-Connection/Temp/
-/[Oo]bj/
-/My project/Obj/
-/Unity-Arduino-Connection/Obj/
-/[Bb]uild/
-/My project/Build/
-/Unity-Arduino-Connection/Build/
-/[Bb]uilds/
-/My project/Builds/
-/Unity-Arduino-Connection/Builds/
-/[Ll]ogs/
-/My project/Logs/
-/Unity-Arduino-Connection/Logs/
-/[Uu]ser[Ss]ettings/
-/My project/UserSettings/
-/Unity-Arduino-Connection/UserSettings/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
